@@ -77,6 +77,7 @@ public class Menu {
 		}
 	}
 
+	//oxyienno pridumano!
 	private void run() {
 		candidats = new ArrayList<Candidate>();
 		voters = new ArrayList<Voter>();
