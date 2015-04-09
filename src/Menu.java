@@ -24,7 +24,7 @@ public class Menu {
 			c++;
 		}
 
-	}
+	} // my comment
 
 	private String validateVoter() {
 		String name;
